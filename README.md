@@ -83,18 +83,18 @@ I enjoy building simple, clean and responsive websites while improving my skills
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb-khan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-haseeb-khan&theme=tokyonight" />
+  
 </p>
 
 ---
 
 ## 🔝 Top Languages
 
-<p align="center">
+<p
   1. Urdu
   2. English
   3. German A1
+  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhaseebkhan-Dev&layout=compact&theme=tokyonight" />
 </p>
 

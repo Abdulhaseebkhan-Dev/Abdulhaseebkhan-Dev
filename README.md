@@ -104,7 +104,7 @@ I enjoy building simple, clean and responsive websites while improving my skills
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/abdul-haseeb-khan">
+<a href="https://github.com/Abdulhaseebkhan-Dev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
 </a>
 </p>

@@ -1,6 +1,3 @@
-<!-- ───────────────────────────────────────────── -->
-<!--                TOP BANNER                     -->
-<!-- ───────────────────────────────────────────── -->
 
 <p align="center">
   <img src="https://i.ibb.co/5G9bcZt/github-banner-dark.png" alt="banner" width="100%">

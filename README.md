@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Abdulhaseebkhan-Dev/Abdulhaseebkhan-Dev/blob/main/Logo.png" alt="banner" width="100%" Length= "50%">
+  <img src="https://github.com/Abdulhaseebkhan-Dev/Abdulhaseebkhan-Dev/blob/main/Logo.png" alt="banner" width="50%" Length= "25%">
 </p>
 
 <h1 align="center">Hi, I'm <strong>Abdul Haseeb Khan</strong> 👋</h1>
@@ -97,7 +97,7 @@ I enjoy building simple, clean and responsive websites while improving my skills
   
   2. Urdu
   
-  3. German A1
+  3. German(A1)
 </p>
 
 ---

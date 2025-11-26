@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/5G9bcZt/github-banner-dark.png" alt="banner" width="100%">
+  <img src="https://i.ibb.co/5G9bcZt/Logo.png" alt="banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm <strong>Abdul Haseeb Khan</strong> 👋</h1>

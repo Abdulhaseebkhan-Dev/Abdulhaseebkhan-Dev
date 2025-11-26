@@ -92,8 +92,11 @@ I enjoy building simple, clean and responsive websites while improving my skills
 
 <p
   align="Rirht">
-  1. Urdu
-  2. English
+  
+  1. English
+  
+  2. Urdu
+  
   3. German A1
 </p>
 

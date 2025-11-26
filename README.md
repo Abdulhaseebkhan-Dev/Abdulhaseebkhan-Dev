@@ -91,11 +91,10 @@ I enjoy building simple, clean and responsive websites while improving my skills
 ## 🔝 Top Languages
 
 <p
+  align="Rirht">
   1. Urdu
   2. English
   3. German A1
-  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhaseebkhan-Dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---

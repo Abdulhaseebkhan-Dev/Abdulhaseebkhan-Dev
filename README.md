@@ -120,7 +120,7 @@ I enjoy building simple, clean and responsive websites while improving my skills
 <!--                 GOALS                         -->
 <!-- ───────────────────────────────────────────── -->
 
-## 🎯 Full-Stack Goals (2025)
+## 🎯 Full-Stack Goals (2026)
 
 - Learn React + Node.js properly  
 - Build 20+ practical projects  

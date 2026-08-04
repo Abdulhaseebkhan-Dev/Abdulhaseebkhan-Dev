@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <strong>Abdul Haseeb Khan</strong> 👋</h1>
-<h3 align="center">Beginner Web Developer • Full-Stack Development Learner • Frontend Enthusiast</h3>
+<h3 align="center"> Web Developer • Frontend Developer • JavaScript Developer • Full-Stack Development Enthusiast</h3>
 
 ---
 
